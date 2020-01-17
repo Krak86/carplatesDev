@@ -4,17 +4,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "audio/sharp.mp3"
   },
   {
-    "revision": "465dc4d362bcebb6207b4026ffcf0fc2",
+    "revision": "5c9a20bb7bd1eb34f230d1081dc91142",
     "url": "index.html"
   },
   {
-    "url": "js/main.2e1d53aaa151858ee4d1.js"
+    "url": "js/main.6f66b4a027c9abb5f9f6.js"
   },
   {
-    "url": "js/runtime.2e1d53aaa151858ee4d1.js"
+    "url": "js/runtime.6f66b4a027c9abb5f9f6.js"
   },
   {
-    "url": "js/vendors~main.2e1d53aaa151858ee4d1.js"
+    "url": "js/vendors~main.6f66b4a027c9abb5f9f6.js"
   },
   {
     "revision": "c7d675a6ee5ff4d4681b5ebed7e345de",
@@ -25,7 +25,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "policy/policy.pdf"
   },
   {
-    "revision": "388ed88eec82ddeacbf877ee7dc4b225",
+    "revision": "5b172177b40be05aba88a09c3057f7b0",
     "url": "robots.txt"
+  },
+  {
+    "revision": "05b74206a74053b0f8e2b0ff43da6bb2",
+    "url": "sitemap.xml"
   }
 ]);
